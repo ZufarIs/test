@@ -1,3 +1,4 @@
+## Скрываем папки и файлы
 no_git_files/*.*
 no_git_folder
 no_git.txt
